@@ -1,6 +1,6 @@
 # Swirl Correction
 
-A specialized image processing system that identifies and corrects swirl distortions in images through deep learning.r
+A specialized image processing system that identifies and corrects swirl distortions in images through deep learning.
 
 ## Overview
 
